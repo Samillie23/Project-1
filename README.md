@@ -32,6 +32,7 @@ Assets used in this assignment:
 5. https://assetstore.unity.com/packages/vfx/shaders/aquas-lite-built-in-render-pipeline-53519
 6. https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052
 7. https://assetstore.unity.com/packages/3d/vegetation/pine-trees-package-295463
+8. https://assetstore.unity.com/packages/3d/props/meadow-forest-props-low-poly-model-pack-316242
 
 Credits:
  
