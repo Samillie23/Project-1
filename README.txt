@@ -17,9 +17,9 @@ Implemented features:
 5. Trees & Foliage
    5 unique foliage models and grass were implemented around the terrain to bring life into the scene. They are also mixed and varied so that it does not ever feel too stagnant.
 7. Baron’s Castle
-   A castle was made in blender and includes the outer walls, inner keep, 
+   A castle was made in blender and includes the outer walls, inner keep, and battlements. (No textures but models were hand made by Kristal in Blender)
 9. Small Village
-    
+    A town was added near by to the castle connected using dirt paths. Inside the village you will find 2 unique prefabs as well as a well, haybale, sign and wagon. The dirt path also extends into the forest where you can find another house at top a hill.  (No textures but models were hand made by Kristal in Blender)
 11. Areas of Water
     2 seperate areas of water were added, a small pond and moat around the castle. There is also a shoreline around the pong and boat that sits on the shoreline. The water prefab was also edited to create a realistic look.
 
@@ -31,8 +31,7 @@ Assets used in this assignment:
 4. https://assetstore.unity.com/packages/2d/textures-materials/nature/handpainted-grass-ground-textures-187634
 5. https://assetstore.unity.com/packages/vfx/shaders/aquas-lite-built-in-render-pipeline-53519
 6. https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052
-7. https://assetstore.unity.com/packages/3d/vegetation/pine-trees-package-295463
-8. https://assetstore.unity.com/packages/3d/props/meadow-forest-props-low-poly-model-pack-316242
+7. https://assetstore.unity.com/packages/3d/props/meadow-forest-props-low-poly-model-pack-316242
 
 Credits:
  
